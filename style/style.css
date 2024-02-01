@@ -235,6 +235,9 @@ footer ul li {
 }
 
 @media (max-width: 480px) {
+    html {
+        overflow-x: hidden;
+    }
     body {
         margin: 0;
         max-width: 480px;
