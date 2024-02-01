@@ -242,6 +242,10 @@ footer ul li {
         padding-left: 0;
     }
 
+    footer ul {
+        padding-left: 0;
+    }
+
     .container span {
         font-size: 100px;
     }
