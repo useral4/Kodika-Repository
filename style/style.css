@@ -254,6 +254,10 @@ footer ul li {
         font-size: 100px;
     }
 
+    .blocks {
+        display: none !important;
+    }
+
     .block1, .block2 {
         scale: 0.7;
         width: 300px;
