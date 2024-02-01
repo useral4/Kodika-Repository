@@ -255,7 +255,7 @@ footer ul li {
     }
 
     .blocks {
-        display: none !important;
+        display: none;
     }
 
     .block1, .block2 {
