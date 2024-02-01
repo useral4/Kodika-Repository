@@ -255,8 +255,7 @@ footer ul li {
     }
 
     .blocks {
-        display: flex;
-        flex-direction: column;
+        display: none;
     }
 
     .block1, .block2 {
